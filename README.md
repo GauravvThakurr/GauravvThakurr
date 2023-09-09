@@ -1,4 +1,4 @@
-# Hello, I am Gaurav Thakur, a Data Analyst 🎯
+# Hello, I am Gaurav Thakur a Data Analyst 🎯
 
 
 ## About me 🙋‍♂️
