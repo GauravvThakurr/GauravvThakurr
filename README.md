@@ -11,5 +11,5 @@ I am an enthusiastic Data Analyst proficient in SQL, Python, Power BI, and Excel
 
 ## Reach me at 🔗
 Linkedin: https://www.linkedin.com/in/gauravthakurr/
-Email: gauravthakue7387@gmail.com
+Email: gauravthakur7387@gmail.com
 
