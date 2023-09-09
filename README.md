@@ -10,7 +10,7 @@ I am an enthusiastic Data Analyst proficient in SQL, Python, Power BI, and Excel
 3. Solid understanding of statistical concepts and ability to apply them to real-world data
 
 ## Reach me at 🔗
-[Linkedin](https://www.linkedin.com/in/gauravthakurr/)
-[Email](gauravthakur7387@gmail.com)
+1. [Linkedin](https://www.linkedin.com/in/gauravthakurr/)
+2. [Email](gauravthakur7387@gmail.com)
 
 
