@@ -13,4 +13,6 @@ I am an enthusiastic Data Analyst proficient in SQL, Python, Power BI, and Excel
 1. [Linkedin](https://www.linkedin.com/in/gauravthakurr/)
 2. [Email](gauravthakur7387@gmail.com)
 
+## Skills
+![<SQL>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
